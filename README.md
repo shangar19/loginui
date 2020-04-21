@@ -1,6 +1,6 @@
-# loginui
+# DolphyLoginGUI
 
-A new Flutter project.
+A Login Templet Flutter project.
 
 ## Getting Started
 
